@@ -1,4 +1,5 @@
 # Course Completion Certificate Smart Contract
+![figure_at_finish_line_13179](https://github.com/user-attachments/assets/487d6828-220c-43b4-b4ff-63ee3e4ecd28)
 
 ## Vision
 
@@ -60,5 +61,7 @@ The **Course Completion Certificate Smart Contract** is designed to streamline t
 
 ### Contract Address
 **Testnet Address:** [https://opencampus-codex.blockscout.com/address/0x07A1a60979eb7DAAC298658742ae5e4b62CDE072]  
+![image](https://github.com/user-attachments/assets/d6c211bb-eec9-4d09-86e3-1fc1690cdc60)
+
 
 
